@@ -1,0 +1,5 @@
+*.src.html
+clean.py
+/tmp/
+enc-out/
+.DS_Store
