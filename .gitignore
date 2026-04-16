@@ -1,5 +1,7 @@
 *.src.html
+*.plain.html
 clean.py
+build.py
 /tmp/
 enc-out/
 .DS_Store
